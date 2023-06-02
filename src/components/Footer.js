@@ -8,7 +8,6 @@ export default function navtags () {
         footer:{
             fontSize:"12px",
             display:"flex",
-            
             justifyContent: "space-between",
             listStyleType: "none",
            }
