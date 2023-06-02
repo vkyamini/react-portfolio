@@ -16,7 +16,7 @@ export default function Home(){
 }
     return(
         <div styles={styles.img}> <h1>This is home page</h1>
-        <p>this is a home page</p>
+        <p>This is what my home page looks like</p>
         <br/>
         </div>
        
