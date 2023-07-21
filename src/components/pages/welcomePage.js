@@ -1,9 +1,10 @@
 import React from "react";
 import image from "../../assets/mine.jpeg"
+import "./style.css"
+function WelcomePage(){
 
-function AboutMe(){
 return(
-  <div>
+    <div>
     <div id="about-container">
     <img id="myimage" src={image} alt="mypic"/>
     <div id="details-section"> 
@@ -11,7 +12,8 @@ return(
         <p>My name is <span>V.K yamini</span> </p>
         <p>I live in kirkland seattle.</p>
         <p>i love developing web Application which i think is both fun and challenging</p>
-     </div>
+        <p></p>
+    </div>
     </div>
     <hr></hr>
     <div id="social-media-links">
@@ -26,7 +28,6 @@ return(
        
     </div>
    </div>
-
 )
 }
-export default AboutMe
+export default WelcomePage;

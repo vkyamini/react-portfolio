@@ -1,7 +1,16 @@
-import React from 'react';
+import React from "react";
 
-export default function Github(){
-    return(
-        <h1>This is Github page</h1>
-    )
+function Github(){
+return(
+  <div>
+  <h4>Please find below my details to contact Me</h4>
+  <p><a href="mailto:vkyamini6@gmail.com">Gmail</a></p>
+  <p><a href="tel:+4254290883">(425) 429-0883</a></p> 
+
+
+</div>
+  
+  
+)
 }
+export default Github
