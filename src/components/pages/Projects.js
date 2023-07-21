@@ -20,7 +20,7 @@ export default function Projects(){
         <p>I have aslo build couple of Full Stack projects where one can connect with friends schedule a meeting and their Skills</p>
         </div>
       <div id="project-container">
-        <a href="https://647c12620e4a0e000705f12f--guru-ui.netlify.app/" target="_blank">
+        <a href="https://647c12620e4a0e000705f12f--guru-ui.netlify.app/" target="_blank" rel="noreferrer">
             <div class="box-1">
             <img src={guruu} alt="mypic"/>
               <p class="project-name">The-Guruu </p>
@@ -29,7 +29,7 @@ export default function Projects(){
               <p>App isa built using MongoDB and react</p>
             </div>
           </a>
-          <a href="https://graphql-yamini-books.herokuapp.com/" target="_blank">
+          <a href="https://graphql-yamini-books.herokuapp.com/" target="_blank" rel="noreferrer">
             <div class="box-1">
             <img src={Books} alt="mypic"/>
               <p class="project-name">Books App </p>
@@ -37,7 +37,7 @@ export default function Projects(){
               <p>This project was built using graphql</p>
             </div>
           </a>
-          <a href="https://addnotes.herokuapp.com/notes" target="_blank">
+          <a href="https://addnotes.herokuapp.com/notes" target="_blank" rel="noreferrer">
             <div class="box-1">
             <img  src={Notes} alt="mypic"/>
               <p class="project-name" >Notes-taker</p>
@@ -45,7 +45,7 @@ export default function Projects(){
               <p>This App is a front-end appication</p>
             </div>
           </a>
-          <a href=" https://vkyamini.github.io/daily-Calendar/" target="_blank">
+          <a href=" https://vkyamini.github.io/daily-Calendar/" target="_blank" rel="noreferrer">
             <div class="box-1">
             <img src={cal} alt="mypic"/>
               <p class="project-name">daily-calendar</p>
@@ -54,7 +54,7 @@ export default function Projects(){
               <p>It is a front - end Application</p>
             </div>
           </a>
-          <a href=" https://vkyamini.github.io/Quiz/" target="_blank">
+          <a href=" https://vkyamini.github.io/Quiz/" target="_blank" rel="noreferrer">
             <div class="box-1">
             <img src={Quiz} alt="mypic"/>
               <p class="project-name">Quiz</p>
@@ -63,7 +63,7 @@ export default function Projects(){
               <p>It is a front - end Application</p>
             </div>
           </a>
-          <a href= "https://vkyamini.github.io/dailt-weather/" target="_blank">
+          <a href= "https://vkyamini.github.io/dailt-weather/" target="_blank" rel="noreferrer">
             <div class="box-1">
             <img src={weather} alt="mypic"/>
               <p class="project-name">Weather</p>
