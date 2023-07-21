@@ -2,7 +2,7 @@ import React from 'react';
 import guruu from "../../assets/guruu.png"
 import cal from "../../assets/cal.png"
 import Books from "../../assets/Books.png"  
-import Notes from "../../assets/Notes.png"
+import Notes from "../../assets/notes.png"
 import Quiz from "../../assets/Quiz.png"
 import weather from "../../assets/Weather.png"
 
