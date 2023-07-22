@@ -3,7 +3,6 @@ import NavTag from './components/NavTag';
 import AboutMe from './components/pages/AboutMe';
 import Projects from './components/pages/Projects';
 import Github from './components/pages/Github';
-import WelcomePage from './components/pages/welcomePage';
 import { BrowserRouter, Routes, Route } from "react-router-dom"
 
 
