@@ -14,8 +14,7 @@ return (
     <div>
    <NavTag/>
   <Routes>
-      <Route path="/react-portfolio" element={<WelcomePage/>} />
-      <Route path="/AboutMe" element={<AboutMe/>}/>
+      <Route path="/" element={<AboutMe/>}/>
       <Route path="/Projects" element={<Projects/>}/>
       <Route path="/Github" element={<Github/>}/>
    </Routes>
